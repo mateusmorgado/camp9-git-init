@@ -1,5 +1,9 @@
-git commit
+sequence
 
-git add
 
-adiciona os arquivos na rede
+git add .
+
+git commit -m "type your message"
+
+git push
+
